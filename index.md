@@ -18,3 +18,9 @@ LTspice IV models for each circuit (right-click save as to download):
 [Dallas Rangemaster Treble Booster](https://raw.githubusercontent.com/bholmesqub/DAFx15/master/spice/dallas_rangemaster.asc)
 
 [PNP BJT model for Rangemaster](https://raw.githubusercontent.com/bholmesqub/DAFx15/master/spice/ebers_moll.txt)
+
+##MATLAB
+
+Iterative solver used in simulations:
+
+[numericalsolver.m](https://raw.githubusercontent.com/bholmesqub/DAFx15/master/matlab/numericalsolver.m)
