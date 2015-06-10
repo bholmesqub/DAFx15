@@ -1,0 +1,6 @@
+* Simplified Ebers-Moll BJT
+*	Reverse Saturation Current		= 1e-14
+*	Forward Common-Emmiter Current Gain	= 200
+*	Reverse Common-Emmiter Current Gain	= 2
+
+.model EBM PNP(IS= 1E-14 BF=200 BR=2)
