@@ -11,19 +11,23 @@ Thanks to Jamie Bridges for kindly providing dry guitar samples.
 
 ###Dry
 
-Chord:
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/chord.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
-
-Riff:
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/riff.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
+<table style="width:100%">
+	<tr>
+		<td>
+			Chord:
+			<audio controls>
+			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/chord.wav" type="audio/wav">
+			Your browser does not support the audio element.
+			</audio> 
+		</td>
+		<td>
+			Riff:
+			<audio controls>
+			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/riff.wav" type="audio/wav">
+			Your browser does not support the audio element.
+			</audio> 
+		</td>
+	</tr>
 
 ###Asymmetrical Diode Clipper
 
