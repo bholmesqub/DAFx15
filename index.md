@@ -9,7 +9,53 @@ Thanks to Jamie Bridges for kindly providing dry guitar samples.
 
 ##Audio samples
 
-{% include audio.html %}
+###Dry
+
+Chord:
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/chord.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio> 
+
+Riff:
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/riff.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio> 
+
+###Asymmetrical Diode Clipper
+
+Chord (peak voltage @ 4.5V):
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/diode_chord.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio> 
+
+Riff (peak voltage @ 4.5V):
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/diode_riff.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio> 
+
+###Dallas Rangemaster
+
+Chord (peak voltage @ 255mV):
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/rangemaster_chord.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio> 
+
+Riff (peak voltage @ 300mV):
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/rangemaster_riff.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio> 
 
 ##SPICE
 
