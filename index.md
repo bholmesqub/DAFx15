@@ -28,6 +28,7 @@ Thanks to Jamie Bridges for kindly providing dry guitar samples.
 			</audio> 
 		</td>
 	</tr>
+</table>
 
 ###Asymmetrical Diode Clipper
 
