@@ -7,6 +7,8 @@ This is the companion webpage for the 18th International Conference on Digital A
 
 Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 
+[**Download all companion content**](https://github.com/bholmesqub/DAFx15/releases/download/v0.1-beta/dafx15_improving.zip)
+
 ##Audio samples
 
 ###Dry
