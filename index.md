@@ -15,18 +15,24 @@ Thanks to Jamie Bridges for kindly providing dry guitar samples.
 	<tr>
 		<td>
 			Chord:
+		</td>
+		<td>
+			Riff:
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<audio controls>
 			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>
 		<td>
-			Riff:
 			<audio controls>
 			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
-		</td>
+		</td>		
 	</tr>
 </table>
 
