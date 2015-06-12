@@ -5,6 +5,8 @@ title: DAFx 2015
 
 This is the companion webpage for the 18th International Conference on Digital Audio Effects submission "Improving the robustness of the iterative solver in state-space modelling of guitar distortion circuitry". The content is likely to change.
 
+Thanks to Jamie Bridges for kindly providing dry guitar samples.
+
 ##Audio samples
 
 {% include audio.html %}
