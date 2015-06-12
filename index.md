@@ -5,7 +5,7 @@ title: DAFx 2015
 
 This is the companion webpage for the 18th International Conference on Digital Audio Effects submission "Improving the robustness of the iterative solver in state-space modelling of guitar distortion circuitry". The content is likely to change.
 
-Thanks to Jamie Bridges for kindly providing dry guitar samples.
+Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 
 ##Audio samples
 
@@ -38,35 +38,57 @@ Thanks to Jamie Bridges for kindly providing dry guitar samples.
 
 ###Asymmetrical Diode Clipper
 
-Chord (peak voltage @ 4.5V):
+<table style="width:100%">
+	<tr>
+		<td>
+			Chord (peak voltage @ 4.5V):
+		</td>
+		<td>
+			Riff (peak voltage @ 4.5V):
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<audio controls>
+			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/diode_chord.wav" type="audio/wav">
+			Your browser does not support the audio element.
+			</audio> 
+		</td>
+		<td>
+			<audio controls>
+			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/diode_riff.wav" type="audio/wav">
+			Your browser does not support the audio element.
+			</audio> 
+		</td>		
+	</tr>
+</table>
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/diode_chord.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
+###Dallas Rangemaster Treble Booster
 
-Riff (peak voltage @ 4.5V):
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/diode_riff.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
-
-###Dallas Rangemaster
-
-Chord (peak voltage @ 255mV):
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/rangemaster_chord.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
-
-Riff (peak voltage @ 300mV):
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/rangemaster_riff.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
+<table style="width:100%">
+	<tr>
+		<td>
+			Chord (peak voltage @ 255mV):
+		</td>
+		<td>
+			Riff (peak voltage @ 300mV):
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<audio controls>
+			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/rangemaster_chord.wav" type="audio/wav">
+			Your browser does not support the audio element.
+			</audio> 
+		</td>
+		<td>
+			<audio controls>
+			  <source src="https://raw.githubusercontent.com/bholmesqub/DAFx15/gh-pages/audio/rangemaster_riff.wav" type="audio/wav">
+			Your browser does not support the audio element.
+			</audio> 
+		</td>		
+	</tr>
+</table>
 
 ##SPICE
 
