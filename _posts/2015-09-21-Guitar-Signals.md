@@ -12,13 +12,13 @@ This page contains the results of a representative guitar signal processed using
 
 
 <figure>
-	<img src="/images/ni.png" alt="New Iterate Method">
+	<img src="{{ site.baseurl }}/images/ni.png" alt="New Iterate Method">
 	<figcaption>Figure 1 - <i>(Top) The input and output signals of the Rangemaster with a representative guitar signal. (Bottom) The unfiltered and filtered number of iterations performed by the New Iterate method.</i></figcaption>
 </figure>
 
 ##Capped Step
 
 <figure>
-	<img src="/images/cs.png" alt="New Iterate Method">
+	<img src="{{ site.baseurl }}/images/cs.png" alt="New Iterate Method">
 	<figcaption>Figure 1 - <i>(Top) The input and output signals of the Rangemaster with a representative guitar signal. (Bottom) The unfiltered and filtered number of iterations performed by the Capped Step method.</i></figcaption>
 </figure> 

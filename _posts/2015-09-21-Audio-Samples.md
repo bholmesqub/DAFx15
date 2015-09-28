@@ -21,13 +21,13 @@ Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 	<tr>
 		<td>
 			<audio controls>
-			  <source src="/audio/chord.wav" type="audio/wav">
+			  <source src="{{ site.baseurl }}/audio/chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>
 		<td>
 			<audio controls>
-			  <source src="/audio/riff.wav" type="audio/wav">
+			  <source src="{{ site.baseurl }}/audio/riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>		
@@ -48,13 +48,13 @@ Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 	<tr>
 		<td>
 			<audio controls>
-			  <source src="/audio/diode_chord.wav" type="audio/wav">
+			  <source src="{{ site.baseurl }}/audio/diode_chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>
 		<td>
 			<audio controls>
-			  <source src="/audio/diode_riff.wav" type="audio/wav">
+			  <source src="{{ site.baseurl }}/audio/diode_riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>		
@@ -75,13 +75,13 @@ Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 	<tr>
 		<td>
 			<audio controls>
-			  <source src="/audio/rangemaster_chord.wav" type="audio/wav">
+			  <source src="{{ site.baseurl }}/audio/rangemaster_chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>
 		<td>
 			<audio controls>
-			  <source src="/audio/rangemaster_riff.wav" type="audio/wav">
+			  <source src="{{ site.baseurl }}/audio/rangemaster_riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
 			</audio> 
 		</td>		
