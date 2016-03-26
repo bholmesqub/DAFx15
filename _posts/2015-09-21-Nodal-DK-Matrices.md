@@ -39,17 +39,17 @@ LaTeX support is provided by MathJax. If this is not functioning correctly try r
 
 <div>
 \begin{align}
-	\boldsymbol{N}_R &= 
+	\boldsymbol{N}_R &=
 	\begin{pmatrix}
 		0 & -1 & 1 &  0 &  0 & 0 & 0 \\
 		0 &  1 & 0 &  0 &  0 & 0 & 0 \\
 		0 &  0 & 0 &  0 &  0 & 1 & 0 \\
 		0 &  0 & 1 & -1 &  0 & 0 & 0 \\
 		0 &  0 & 0 &  1 & -1 & 0 & 0 \\
-		0 &  0 & 0 &  0 &  0 & 0 & 1 
+		0 &  0 & 0 &  0 &  0 & 0 & 1
 	\end{pmatrix}
 	\\[0.6em]
-	\boldsymbol{N}_x &= 
+	\boldsymbol{N}_x &=
 	\begin{pmatrix}
 		0 &  0 & 1 & 0 & 0 & 0 &  0 \\
 		1 & -1 & 0 & 0 & 0 & 0 &  0 \\
@@ -57,21 +57,21 @@ LaTeX support is provided by MathJax. If this is not functioning correctly try r
 		0 &  0 & 0 & 1 & 0 & 0 & -1
 	\end{pmatrix}
 	\\[0.6em]
-	\boldsymbol{N}_u &= 
+	\boldsymbol{N}_u &=
 	\begin{pmatrix}
 		0 & 0 & -1 & 0 & 0 & 0 & 0 \\
 		1 & 0 &  0 & 0 & 0 & 0 & 0
 	\end{pmatrix}
 	\\[0.6em]
-	\boldsymbol{N}_n &= 
+	\boldsymbol{N}_n &=
 	\begin{pmatrix}
 		0 & -1 & 0 & 0 &  0 & 1 & 0 \\
-		0 &  0 & 0 & 0 & -1 & 1 & 0 
+		0 &  0 & 0 & 0 & -1 & 1 & 0
 	\end{pmatrix}
 	\\[0.6em]
-	\boldsymbol{N}_o &= 
+	\boldsymbol{N}_o &=
 	\begin{pmatrix}
 		0 & 0 & 0 & 0 & 0 & 0 & 1 \\
-	\end{pmatrix}	
+	\end{pmatrix}
 \end{align}
 </div>
