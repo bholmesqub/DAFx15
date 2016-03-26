@@ -3,7 +3,7 @@ layout: page
 title: DAFx 2015
 ---
 
-This is the companion webpage for the 18th International Conference on Digital Audio Effects submission **"Improving the robustness of the iterative solver in state-space modelling of guitar distortion circuitry"**. 
+This is the companion webpage for the 18th International Conference on Digital Audio Effects submission **"Improving the robustness of the iterative solver in state-space modelling of guitar distortion circuitry"**.
 
 The poster and slides for the overview presentation are available in the master branch:
 
@@ -14,11 +14,10 @@ The poster and slides for the overview presentation are available in the master 
 (*Contains audio samples, SPICE models, and MATLAB code*)
 
 
-##Contents
+## Contents
 
 * [Audio Samples](Audio-Samples)
 * [Nodal DK-method Matrices](Nodal-DK-Matrices)
 * [Method Comparison: Guitar Signal](Guitar-Signals)
 * [SPICE Models](SPICE-Models)
 * [MATLAB Code](MATLAB-Code)
-

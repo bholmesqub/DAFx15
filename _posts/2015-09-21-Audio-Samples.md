@@ -7,7 +7,7 @@ The guitar signals used for these samples were recorded using an audio interface
 
 Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 
-###Dry
+### Dry
 
 <table style="width:100%">
 	<tr>
@@ -23,18 +23,18 @@ Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 			<audio controls>
 			  <source src="{{ site.baseurl }}/audio/chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
-			</audio> 
+			</audio>
 		</td>
 		<td>
 			<audio controls>
 			  <source src="{{ site.baseurl }}/audio/riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
-			</audio> 
+			</audio>
 		</td>		
 	</tr>
 </table>
 
-###Asymmetrical Diode Clipper
+### Asymmetrical Diode Clipper
 
 <table style="width:100%">
 	<tr>
@@ -50,18 +50,18 @@ Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 			<audio controls>
 			  <source src="{{ site.baseurl }}/audio/diode_chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
-			</audio> 
+			</audio>
 		</td>
 		<td>
 			<audio controls>
 			  <source src="{{ site.baseurl }}/audio/diode_riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
-			</audio> 
+			</audio>
 		</td>		
 	</tr>
 </table>
 
-###Dallas Rangemaster Treble Booster
+### Dallas Rangemaster Treble Booster
 
 <table style="width:100%">
 	<tr>
@@ -77,13 +77,13 @@ Special thanks to Jamie Bridges for kindly providing dry guitar samples.
 			<audio controls>
 			  <source src="{{ site.baseurl }}/audio/rangemaster_chord.wav" type="audio/wav">
 			Your browser does not support the audio element.
-			</audio> 
+			</audio>
 		</td>
 		<td>
 			<audio controls>
 			  <source src="{{ site.baseurl }}/audio/rangemaster_riff.wav" type="audio/wav">
 			Your browser does not support the audio element.
-			</audio> 
+			</audio>
 		</td>		
 	</tr>
 </table>
